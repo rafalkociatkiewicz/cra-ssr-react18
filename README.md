@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Simple SSR using CRA and React 18
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an attempt of creating SSR in React 18 using CRA.
 
 ## Available Scripts
 
